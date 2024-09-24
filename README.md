@@ -2,7 +2,7 @@ Assigments 2 Static Website
 
 Subreet Singh SFSU
 
-This was my first attempt at creating a static website suing both HTML and CSS
+This was my first attempt at creating a static website using both HTML and CSS
 
 I used the following resources 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
