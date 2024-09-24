@@ -11,7 +11,7 @@
 .menu{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(36, 64, 173, 0.7),rgba(4,9,30,0.7)),url(back.jpg);
+    background-image: linear-gradient(rgba(36, 64, 173, 0.7),rgba(4,9,30,0.7)),url(../resources/back.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
